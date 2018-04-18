@@ -1,0 +1,6 @@
+framework module TheBeerWalk {
+  umbrella header "TheBeerWalk-umbrella.h"
+
+  export *
+  module * { export * }
+}

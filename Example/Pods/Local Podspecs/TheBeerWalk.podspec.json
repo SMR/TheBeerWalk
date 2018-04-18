@@ -1,0 +1,22 @@
+{
+  "name": "TheBeerWalk",
+  "version": "0.1.0",
+  "summary": "A short description of TheBeerWalk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/smr/TheBeerWalk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "smr": "smr.dubey508@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/smr/TheBeerWalk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TheBeerWalk/Classes/**/*"
+}

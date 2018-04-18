@@ -1,0 +1,16 @@
+PODS:
+  - TheBeerWalk (0.1.0)
+
+DEPENDENCIES:
+  - TheBeerWalk (from `../`)
+
+EXTERNAL SOURCES:
+  TheBeerWalk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TheBeerWalk: 84170125196034baf8f1edb13edf504dc069e867
+
+PODFILE CHECKSUM: 37e7d74c7cda1e7d54237d080d248e8e6b56e9ef
+
+COCOAPODS: 1.5.0

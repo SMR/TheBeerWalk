@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TheBeerWalk_Example' do
+  pod 'TheBeerWalk', :path => '../'
+
+  target 'TheBeerWalk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
